@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.intellicar.swapstation.HeartbeatPayloadTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-11-26T08:41:04.755Z" hostname="GurjantSingh-Ubuntu" time="0.056">
+  <properties/>
+  <testcase name="ts is real-time epoch seconds" classname="com.intellicar.swapstation.HeartbeatPayloadTest" time="0.046"/>
+  <testcase name="default ts is the current clock in seconds" classname="com.intellicar.swapstation.HeartbeatPayloadTest" time="0.001"/>
+  <testcase name="ticks carries uptime" classname="com.intellicar.swapstation.HeartbeatPayloadTest" time="0.001"/>
+  <testcase name="station-level fields match spec" classname="com.intellicar.swapstation.HeartbeatPayloadTest" time="0.002"/>
+  <testcase name="deviceId equals station id" classname="com.intellicar.swapstation.HeartbeatPayloadTest" time="0.001"/>
+  <testcase name="one slot payload per configured slot with all spec fields" classname="com.intellicar.swapstation.HeartbeatPayloadTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

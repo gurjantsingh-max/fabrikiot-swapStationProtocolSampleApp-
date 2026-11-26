@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.intellicar.swapstation.presentation.live.LiveServerViewModel

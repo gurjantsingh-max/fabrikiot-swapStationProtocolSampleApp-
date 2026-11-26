@@ -1,0 +1,8 @@
+com.intellicar.swapstation
+color ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+string app_name
+style Theme_SwapStation
+xml backup_rules
+xml data_extraction_rules

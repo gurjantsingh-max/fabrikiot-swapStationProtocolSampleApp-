@@ -1,0 +1,20 @@
+# HiveMQ MQTT client / Netty (see HiveMQ client docs "Android")
+-keepclassmembernames class io.netty.** { *; }
+-keepclassmembers class org.jctools.** { *; }
+-dontwarn io.netty.**
+-dontwarn org.jctools.**
+-dontwarn reactor.blockhound.**
+-dontwarn org.slf4j.**
+-dontwarn org.apache.log4j.**
+-dontwarn org.apache.logging.log4j.**
+-dontwarn com.aayushatharva.brotli4j.**
+-dontwarn com.github.luben.zstd.**
+-dontwarn com.jcraft.jzlib.**
+-dontwarn com.ning.compress.**
+-dontwarn lzma.sdk.**
+-dontwarn net.jpountz.**
+-dontwarn org.bouncycastle.**
+-dontwarn org.conscrypt.**
+-dontwarn org.eclipse.jetty.**
+-dontwarn javax.annotation.**
+-dontwarn com.google.errorprone.annotations.**
